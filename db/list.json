@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Charles Dickens",
+    "rate": 4.8,
+    "location": "Oakridge Lane Richardson",
+    "salary": "$650 / hour",
+    "whois": "Project Manager",
+    "skills": ["Leader", "Developer", "Manager"]
+  },
+  {
+    "name": "Jane Austen",
+    "rate": 4.7,
+    "location": "Pine Street Austin",
+    "salary": "$600 / hour",
+    "whois": "Software Engineer",
+    "skills": ["Developer", "Designer", "Problem Solver"]
+  },
+  {
+    "name": "William Shakespeare",
+    "rate": 4.9,
+    "location": "Elm Avenue Stratford",
+    "salary": "$700 / hour",
+    "whois": "Content Writer",
+    "skills": ["Writer", "Poet", "Historian"]
+  },
+  {
+    "name": "Emily Bronte",
+    "rate": 4.6,
+    "location": "Hillside Drive Haworth",
+    "salary": "$580 / hour",
+    "whois": "Marketing Specialist",
+    "skills": ["Marketing", "Social Media", "Analytics"]
+  },
+  {
+    "name": "Leo Tolstoy",
+    "rate": 4.9,
+    "location": "Birch Street Moscow",
+    "salary": "$720 / hour",
+    "whois": "Data Scientist",
+    "skills": ["Data Analysis", "Machine Learning", "Statistics"]
+  },
+  {
+    "name": "Charlotte Bronte",
+    "rate": 4.7,
+    "location": "Maple Lane Haworth",
+    "salary": "$620 / hour",
+    "whois": "Graphic Designer",
+    "skills": ["Design", "Illustration", "Photoshop"]
+  },
+  {
+    "name": "Mark Twain",
+    "rate": 4.8,
+    "location": "River Road Hannibal",
+    "salary": "$680 / hour",
+    "whois": "Business Analyst",
+    "skills": ["Business Analysis", "Strategy", "Problem Solving"]
+  },
+  {
+    "name": "Agatha Christie",
+    "rate": 4.7,
+    "location": "Meadow Lane Torquay",
+    "salary": "$590 / hour",
+    "whois": "Accountant",
+    "skills": ["Accounting", "Finance", "Taxation"]
+  },
+  {
+    "name": "Fyodor Dostoevsky",
+    "rate": 4.9,
+    "location": "Cedar Street Saint Petersburg",
+    "salary": "$710 / hour",
+    "whois": "Software Developer",
+    "skills": ["Software Development", "Coding", "Algorithms"]
+  },
+  {
+    "name": "Virginia Woolf",
+    "rate": 4.8,
+    "location": "Seaside Drive London",
+    "salary": "$660 / hour",
+    "whois": "UX/UI Designer",
+    "skills": ["User Experience", "User Interface", "Prototyping"]
+  }
+]
